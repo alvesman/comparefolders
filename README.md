@@ -1,5 +1,4 @@
-﻿
-
+<pre>
 comparefolders flags dir1 dir2 matchPattern ignorePattern
 
 FLAGS:
@@ -28,4 +27,4 @@ If you want to see if there are extra files on dir2 you must run the same comman
 2)
     Now check for missing files on "e:\\myHome":
     comparefolders FR \\nas03\backup\myHome e:\myHome *.* none
-
+</pre>
